@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\모광윤\Desktop\백준\입출력과 사칙연산\.metadata\.plugins\org.eclipse.jdt.core
+2083248483.index
+812017094.index
